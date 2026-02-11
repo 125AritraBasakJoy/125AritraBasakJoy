@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGuGFityrE/q532rOWXr6R4lP2nr0Hjgw/edit?utm_content=DAGuGFityrE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" />
+ <img src="https://raw.githubusercontent.com/125AritraBasakJoy/125AritraBasakJoy/main/Aritra%20Basak%20Joy.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Aritra Basak Joy</h1>
@@ -30,8 +30,10 @@
 | :--- | :--- |
 | **Frontend** | Angular, TypeScript, JavaScript, HTML5, CSS3, PrimeNG |
 | **API & Backend** | **RESTful APIs**, JSON, RxJS, Node.js, Postman |
-| **AI/Research** | CNN, Deep Learning, Image Processing, Python |
-| **Deployment** | AWS EC2, NGINX, Netlify, Vercel |
+| **AI** | CNN, Deep Learning, Image Processing, Python |
+| **Research** | IoT |
+| **Data Science** | R Language |
+| **Deployment** | Netlify |
 
 ### 🔌 REST API Integration Focus
 - **Data Orchestration:** Proficient in using **RxJS Observables** and **Interceptors** to handle authentication and error management across API calls.
@@ -40,8 +42,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=125AritraBasakJoy&theme=tokyonight" />
 </p>
 
