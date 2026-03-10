@@ -43,11 +43,12 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/125AritraBasakJoy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Dhaka" width="100%" alt="Metrics" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
 
 ---
