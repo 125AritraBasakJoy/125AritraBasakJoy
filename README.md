@@ -43,12 +43,12 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
