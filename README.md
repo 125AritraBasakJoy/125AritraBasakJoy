@@ -43,8 +43,7 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact" height="170" />
+  <img src="https://metrics.lecoq.io/125AritraBasakJoy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Dhaka" width="100%" alt="Metrics" />
 </p>
 
 <p align="center">
