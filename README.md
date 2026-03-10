@@ -40,12 +40,16 @@
 - **Dynamic UIs:** Experienced in building data-driven components that sync in real-time with backend services.
 - **Tooling:** Skilled in **Postman** for API documentation and testing to ensure seamless frontend-backend handshakes.
 
-### 📊 GitHub Stats
+### 📊 My Coding Activity
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=125AritraBasakJoy&theme=tokyonight&hide_border=true&cache_bust=1"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS"/>
+</p>
+
+---
