@@ -43,11 +43,17 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aritra's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aritra's Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=125AritraBasakJoy&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+---
