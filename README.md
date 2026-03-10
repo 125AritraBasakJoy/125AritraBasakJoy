@@ -43,11 +43,11 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/125AritraBasakJoy">
     <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=125AritraBasakJoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aritra's GitHub Stats" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/125AritraBasakJoy">
     <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=125AritraBasakJoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aritra's Top Languages" />
   </a>
 </p>
