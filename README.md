@@ -23,7 +23,6 @@
 - 🎓 BSc in Computer Science & Engineering graduate from **AIUB**.
 - 💻 **Frontend Specialist** with a deep focus on **Angular**, **TypeScript**, and **RxJS**.
 - 🔌 **API Architect:** Expert in orchestrating complex data flows and optimizing asynchronous requests.
-- 🧠 **Researcher:** Ask me about my thesis on **Deep Learning** and **Image Processing** for shrimp disease detection!
 
 ---
 
