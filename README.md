@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Aritra Basak Joy</h1>
 <p align="center">
-  <strong>Software Engineer @ BRAC IT Services | AIUB Alumnus</strong>
+  <strong>Software Engineer | AIUB Alumnus</strong>
 </p>
 
 <p align="center">
